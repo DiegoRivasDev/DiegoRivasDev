@@ -1,6 +1,6 @@
 <h1 align="center">
 Hi, I'm Diego Rivas!
-  <img src="https://i.postimg.cc/XYkX7BLg/1678632e0568-copia.png" width="30"></h1>
+  <img src="" width="30"></h1>
 
 
 <img src="https://i.postimg.cc/CLw3pZZ0/1678632810568.png">
@@ -20,7 +20,8 @@ Hi, I'm Diego Rivas!
 <table>
 <tr>
 <td width="100%">
-<h3 align="center">Curso Android Básico</h3>
+  <div align="center"> <h1>## :trophy: some proyects: :robot:</h1></div>
+
 <div align="center">
 <a href=""https://https://github.com/DiegoRivasDev/woocomers-and-wordpress" target="_blank"><img src="https://i.postimg.cc/bvfdqH1r/15.png" width="400" alt=""></a>
 <p>
