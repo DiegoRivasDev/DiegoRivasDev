@@ -3,7 +3,7 @@ Hi, I'm Diego Rivas!
   <img src="https://i.postimg.cc/XYkX7BLg/1678632e0568-copia.png" width="30"></h1>
 
 
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://i.postimg.cc/XYkX7BLg/1678632e0568-copia.png">
 
 <div align="center"> <h1>## :trophy: Languages and Tools: :robot:</h1></div>
 
