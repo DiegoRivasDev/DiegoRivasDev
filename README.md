@@ -28,7 +28,8 @@ Hi, I'm Diego Rivas!
   <div align="center"> <h1>## :trophy: some proyects: :robot:</h1></div>
 
 <div align="center">
-<a href=""https://https://github.com/DiegoRivasDev/woocomers-and-wordpress" target="_blank"><img src="https://i.postimg.cc/bvfdqH1r/15.png"  alt=""></a>
+<a href="https://github.com/DiegoRivasDev/woocomers-and-wordpress" target="_blank"><img src="https://i.postimg.cc/bvfdqH1r/15.png"  alt=""></a>
+<a href="https://github.com/DiegoRivasDev/Delivery-of-my-first-internship--a-system-for-a-school." target="_blank"><img src="https://i.postimg.cc/Y93JvkVZ/14-copia.png"  alt=""></a>
 <p>
 
 
