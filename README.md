@@ -22,7 +22,7 @@ Hi, I'm Diego Rivas!
   
 <br>
 
-<div align="center"> <h1>## :trophy: This is my website: :robot:</h1></div>
+<div align="center"> <h1>:globe_with_meridians: This is my website :globe_with_meridians:</h1></div>
 <div align="center"> <a href="https://diegorivasdev.github.io" target="_blank"><img src="https://i.postimg.cc/Pq21FR8Y/9418290.png" width="150"  alt=""></a></div>
 
 <br>
