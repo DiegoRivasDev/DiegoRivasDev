@@ -39,7 +39,7 @@ Hi, I'm Diego Rivas!
 
 
 </p>
-<p>4 Years of preparation for the solution to your needs. In the service of innovation. <strong>Diego Rivas Full Stack developer </strong> copyright © 2023 Diego Rivas | all right reserved.</p>
+<p><strong>Diego Rivas Full Stack developer </strong> 4 Years of preparation for the solution to your needs. In the service of innovation.  copyright © 2023 Diego Rivas | all right reserved.</p>
 </div>
                                                                                       
 </td>                                                    
