@@ -5,7 +5,7 @@ Hi, I'm Diego Rivas!
 
 <img src="https://i.imgur.com/weNbhGZ.png">
 
-<div align="center">## :trophy: <h1>Languages and Tools:</h1> :robot:</div>
+<div align="center">## :trophy: <h1>Languages and Tools: :robot:</h1></div>
 
  
 
