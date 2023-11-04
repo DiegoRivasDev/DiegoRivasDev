@@ -1,9 +1,11 @@
 <h1 align="center">
-Hi, I'm Diego Rivas! :mortar_board:
+
 
 <img src="https://i.postimg.cc/CLw3pZZ0/1678632810568.png">
-
+Hi, I'm Diego Rivas! :mortar_board:
 </h1>
+
+<br>
 
 <div align="center"> <h1>:computer: Languages and Tools: :computer:</h1></div>
 
