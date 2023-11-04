@@ -16,7 +16,7 @@ Hi, I'm Diego Rivas!
   </a>
 </p>
 
-<div align="center">## About my</div>
+<h2 align="center">About my</h2>
 
 - 20 years old and I am a Full Stack Developer and Software Engineer with 4 years of university academic training in the area, my academic training covers various areas such as networking, auditing, database, intermediate electronics, systems implementation and programming as a base.
 - 
