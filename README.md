@@ -16,9 +16,10 @@ Hi, I'm Diego Rivas!
   </a>
 </p>
 
-## Sobre mi
+## About my
 
--20 years old and I am a Full Stack Developer and Software Engineer with 4 years of university academic training in the area, my academic training covers various areas such as networking, auditing, database, intermediate electronics, systems implementation and programming as a base.
+- 20 years old and I am a Full Stack Developer and Software Engineer with 4 years of university academic training in the area, my academic training covers various areas such as networking, auditing, database, intermediate electronics, systems implementation and programming as a base.
+- 
 <br>
 
 <table>
