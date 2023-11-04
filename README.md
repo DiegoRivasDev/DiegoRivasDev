@@ -30,7 +30,7 @@ Hi, I'm Diego Rivas!
 <table>
 <tr>
 <td width="100%">
-  <div align="center"> <h1>## :trophy: some proyects: :robot:</h1></div>
+  <div align="center"> <h1>:computer: some proyects: :computer:</h1></div>
 
 <div align="center">
 <a href="https://github.com/DiegoRivasDev/woocomers-and-wordpress" target="_blank"><img src="https://i.postimg.cc/bvfdqH1r/15.png"  alt=""></a>
