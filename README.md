@@ -18,12 +18,7 @@ Hi, I'm Diego Rivas!
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+35k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+20 years old and I am a Full Stack Developer and Software Engineer with 4 years of university academic training in the area, my academic training covers various areas such as networking, auditing, database, intermediate electronics, systems implementation and programming as a base.
 <br>
 
 <table>
