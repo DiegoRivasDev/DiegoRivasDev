@@ -39,7 +39,7 @@ Hi, I'm Diego Rivas!
 
 
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p>4 Years of preparation for the solution to your needs. In the service of innovation.<strong>Diego Rivas Full Stack developer </strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
 </div>
                                                                                       
 </td>                                                    
