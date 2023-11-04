@@ -1,7 +1,10 @@
 <h1 align="center">
 Hi, I'm Diego Rivas! :mortar_board:
 
+<img src="https://i.postimg.cc/CLw3pZZ0/1678632810568.png">
 
+<div align="center"> <h1>## :trophy: Languages and Tools: :robot:</h1></div>
+<div align="center"> <h1>:computer: Languages and Tools: :computer:</h1></div>
 <div align="center"> <h1>:computer: Languages and Tools: :computer:</h1></div>
 
  
