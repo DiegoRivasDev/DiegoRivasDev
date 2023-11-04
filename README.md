@@ -1,9 +1,6 @@
 <h1 align="center">
-Hi, I'm Diego Rivas!
-  <img src="" width="30"></h1>
+Hi, I'm Diego Rivas! :mortar_board:
 
-
-<img src="https://i.postimg.cc/CLw3pZZ0/1678632810568.png">
 
 <div align="center"> <h1>:computer: Languages and Tools: :computer:</h1></div>
 
@@ -30,7 +27,7 @@ Hi, I'm Diego Rivas!
 <table>
 <tr>
 <td width="100%">
-  <div align="center"> <h1>:computer: some proyects: :computer:</h1></div>
+  <div align="center"> <h1>:floppy_disk: some proyects: :floppy_disk:</h1></div>
 
 <div align="center">
 <a href="https://github.com/DiegoRivasDev/woocomers-and-wordpress" target="_blank"><img src="https://i.postimg.cc/bvfdqH1r/15.png"  alt=""></a>
