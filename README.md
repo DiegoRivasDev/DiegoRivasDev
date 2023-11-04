@@ -19,7 +19,7 @@ Hi, I'm Diego Rivas!
 <h2 align="center">About my</h2>
 
 - 20 years old and I am a Full Stack Developer and Software Engineer with 4 years of university academic training in the area, my academic training covers various areas such as networking, auditing, database, intermediate electronics, systems implementation and programming as a base.
-- 
+  
 <br>
 
 <table>
@@ -28,7 +28,7 @@ Hi, I'm Diego Rivas!
   <div align="center"> <h1>## :trophy: some proyects: :robot:</h1></div>
 
 <div align="center">
-<a href=""https://https://github.com/DiegoRivasDev/woocomers-and-wordpress" target="_blank"><img src="https://i.postimg.cc/bvfdqH1r/15.png" width="400" alt=""></a>
+<a href=""https://https://github.com/DiegoRivasDev/woocomers-and-wordpress" target="_blank"><img src="https://i.postimg.cc/bvfdqH1r/15.png"  alt=""></a>
 <p>
 
 
