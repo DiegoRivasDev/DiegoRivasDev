@@ -20,7 +20,7 @@ Hi, I'm Diego Rivas! :mortar_board:
 
 <h2 align="center">About my</h2>
 
-- Hi, I'm Diego Rivas. I am a self-taught Full Stack developer and passionate about programming completing my final-year in software engineer at the university. I have experience working independently in the creation of websites and systems for business use..
+- Hi, I'm Diego Rivas. I am a self-taught Full Stack developer and passionate about programming completing my final-year in software engineer at the university. I have experience working independently in the creation of websites and systems for business use.
   
 <br>
 
@@ -41,7 +41,7 @@ Hi, I'm Diego Rivas! :mortar_board:
 
 
 </p>
-<p><strong>Diego Rivas Full Stack developer. </strong> To create dynamic and friendly web systems to help businesses with website design and <strong>digital marketing services?.</strong>  copyright © 2023 Diego Rivas | all right reserved.</p>
+<p>To create dynamic and friendly web systems to help businesses with website design and <strong>digital marketing services?</strong>  copyright © 2023 Diego Rivas | all right reserved. <strong>Diego Rivas Full Stack developer. </strong></p>
 </div>
                                                                                       
 </td>                                                    
