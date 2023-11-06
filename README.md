@@ -41,7 +41,7 @@ Hi, I'm Diego Rivas! :mortar_board:
 
 
 </p>
-<p><strong>Diego Rivas Full Stack developer. </strong> 4 Years of preparation for the solution to your needs. In the service of innovation.  copyright © 2023 Diego Rivas | all right reserved.</p>
+<p><strong>Diego Rivas Full Stack developer. </strong> To create dynamic and friendly web systems to help businesses with website design and <strong>digital marketing services?.</strong>  copyright © 2023 Diego Rivas | all right reserved.</p>
 </div>
                                                                                       
 </td>                                                    
