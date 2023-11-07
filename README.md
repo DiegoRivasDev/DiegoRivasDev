@@ -41,7 +41,8 @@ Hi, I'm Diego Rivas! :mortar_board:
 
 
 </p>
-<p>To create dynamic and friendly web systems to help businesses with website design and <strong>digital marketing services?</strong></p>  copyright © 2023 Diego Rivas | all right reserved. <p><strong>Diego Rivas Full Stack developer. </strong></p>
+<p>To create dynamic and friendly web systems to help businesses with <strong>modern
+                designs</strong></p>  copyright © 2023 Diego Rivas | all right reserved. <p><strong>Diego Rivas Full Stack developer. </strong></p>
 </div>
                                                                                       
 </td>                                                    
