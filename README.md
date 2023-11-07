@@ -14,7 +14,7 @@ Hi, I'm Diego Rivas! :mortar_board:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,arduino,bash,blender,bootstrap,cpp,css,discord,electron,figma,firebase,git,github,html,js,laravel,linkedin,linux,mysql,nodejs,ps,php,postgres,pr,react,vscode,neovim,wordpress" />
+    <img src="https://skillicons.dev/icons?i=vim,arduino,bash,blender,bootstrap,cpp,css,discord,electron,figma,firebase,git,github,html,js,laravel,linkedin,linux,mysql,nodejs,ps,php,postgres,pr,react,sass,vscode,neovim,wordpress" />
   </a>
 </p>
 
