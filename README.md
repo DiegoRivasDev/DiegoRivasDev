@@ -24,7 +24,7 @@ Hi, I'm Diego Rivas! :mortar_board:
   
 <br>
 
-<div align="center"> <h1>:globe_with_meridians: This is my website :globe_with_meridians:</h1></div>
+<div align="center"> <h1> :globe_with_meridians: This is my website :globe_with_meridians: </h1></div>
 <div align="center"> <a href="https://diegorivasdev.github.io" target="_blank"><img src="https://i.postimg.cc/Pq21FR8Y/9418290.png" width="150"  alt=""></a></div>
 
 <br>
@@ -32,7 +32,7 @@ Hi, I'm Diego Rivas! :mortar_board:
 <table>
 <tr>
 <td width="100%">
-  <div align="center"> <h1>:floppy_disk: some proyects: :floppy_disk:</h1></div>
+  <div align="center"> <h1> :floppy_disk: some proyects: :floppy_disk: </h1></div>
 
 <div align="center">
 <a href="https://github.com/DiegoRivasDev/woocomers-and-wordpress" target="_blank"><img src="https://i.postimg.cc/bvfdqH1r/15.png"  alt=""></a>
