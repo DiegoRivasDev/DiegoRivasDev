@@ -20,7 +20,9 @@ Hi, I'm Diego Rivas! :mortar_board:
 
 <h2 align="center">About my</h2>
 
-- Hi, I'm Diego Rivas. I am a self-taught Full Stack developer and passionate about programming completing my final-year in software engineer at the university. I have experience working independently in the creation of websites and systems for business use.
+Hello, I'm Diego Rivas. I am a self-taught Full Stack developer and passionate about programming. I am currently a Systems Engineer with extensive experience in programming (Python, PHP, Node.js, React, C++, SQL, MySQL, PostgreSQL, Arduino, Docker, Odoo, and implementation of LLMs for the creation of AI Agents). Additionally, I have experience working independently in the creation of websites and systems for business use.
+
+
   
 <br>
 
